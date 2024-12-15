@@ -1,4 +1,4 @@
-<h1 align="center" color="pink">Hi 👋, I'm Imasha-Karunarathna</h1>
+<h1 align="center" >Hi 👋, I'm Imasha-Karunarathna</h1>
 <h3 align="center">Interesting to be a UI/UX designer</h3>
 <img src="https://technofaq.org/wp-content/uploads/2021/07/mobile-app-design-768x585.jpg">
 
