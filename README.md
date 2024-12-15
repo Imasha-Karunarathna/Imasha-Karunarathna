@@ -1,6 +1,6 @@
 <h1 align="center" >Hi 👋, I'm Imasha-Karunarathna</h1>
 <h3 align="center">Interesting to be a UI/UX designer</h3>
-<img src="https://technofaq.org/wp-content/uploads/2021/07/mobile-app-design-768x585.jpg">
+<img src="https://technofaq.org/wp-content/uploads/2021/07/mobile-app-design-768x585.jpg" align="center">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
